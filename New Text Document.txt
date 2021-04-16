@@ -1,0 +1,5 @@
+client id: 
+710871611206-q5pbcc0949eie4q9t0b2jhote760o91h.apps.googleusercontent.com
+
+client secret:
+pdvhq_17HRqaxmdmn6cOD7st
